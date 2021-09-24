@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay-8
 - 👀 I’m interested in Theoretical Physics and Computer Science
 - 🌱 I’m currently creating courses on my website ' advancedphysics.academy ' and 'Udemy'
-- 💞️ I’m looking to collaborate on creating theoretical physics and programming courses
+- 💞️ I’m looking for collaboration to create theoretical physics and programming courses
 - 📫 Please reach me on Twitter @akshay_1208
 
 <!---
